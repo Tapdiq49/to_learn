@@ -1,0 +1,33 @@
+https://www.w3resource.com/javascript-exercises/  		-	men tapdigim
+https://www.w3schools.com/js/default.asp	 		-	bashdan tekrarlamaq
+
+https://www.w3schools.com/howto/default.asp			-	Her gun 1 practica et	how to
+https://www.w3schools.com/w3css/default.asp			-	her gun 1 practice et 	w3.css
+
+
+						html
+https://www.w3schools.com/html/html_quotation_elements.asp  	-   	quotation html
+https://www.w3schools.com/html/html_links_bookmarks.asp    	-   	bookmarks
+https://www.w3schools.com/html/html_iframe.asp		   	-   	iframe
+https://www.w3schools.com/html/html_head.asp	 	     	-   	head
+https://www.w3schools.com/html/html_computercode_elements.asp	-	computercode
+https://www.w3schools.com/html/html5_semantic_elements.asp	-	semantic
+https://www.w3schools.com/html/html5_syntax.asp			-	style guide
+https://www.w3schools.com/html/html_entities.asp		-	entities
+https://www.w3schools.com/html/html_symbols.asp			-	symbol
+https://www.w3schools.com/html/html_emojis.asp			-	emoji
+https://www.w3schools.com/html/html_quiz.asp			-	Quiz
+https://www.w3schools.com/html/html_exercises.asp		-	exercise
+
+
+
+						Css
+
+https://www.w3schools.com/css/css_tooltip.asp			-	tooltip
+https://www.w3schools.com/css/css3_object-fit.asp		-	objective-fit
+https://www.w3schools.com/css/css3_pagination.asp#		-	pagination
+https://www.w3schools.com/css/css3_multiple_columns.asp		-	miltiple columns
+https://www.w3schools.com/css/css_templates.asp			-	templates
+https://www.w3schools.com/css/css_quiz.asp			-	quiz
+https://www.w3schools.com/css/css_exercises.asp			-	exercise
+
